@@ -3,6 +3,8 @@ import HeroSection from "./components/HeroSection"
 import FeatureSection from "./components/FeatureSection"
 import WorkFlow from "./components/WorkFLow"
 import Price from "./components/Price"
+import Testimonial from "./components/Testimonial"
+import Footer from "./components/Footer"
 
 
 function App(){
@@ -14,6 +16,8 @@ function App(){
         <FeatureSection />
         <WorkFlow />
         <Price />
+        <Testimonial />
+        <Footer />
       </div>
       
     </>
